@@ -1,0 +1,8 @@
+[package]
+name = "pdf"
+version = "0.1.0"
+authors = ["Vladimir Meshcheryakov <vlames@pdx.edu>"]
+edition = "2018"
+
+[dependencies]
+printpdf = "0.2.10"
