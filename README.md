@@ -1,6 +1,6 @@
 # ReceiptCreator
 
-The receiptcreator is a toy application that allows a user to create a list of receipts.
+The receiptcreator is a simple application that allows a user to create a list of receipts written to a .pdf file.
 
 ## Requirements
 
